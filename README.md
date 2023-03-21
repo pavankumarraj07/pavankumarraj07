@@ -5,7 +5,6 @@ I am [Pavan](https://www.linkedin.com/in/pavan071499/), working with Wipro as a 
 I believe that continuous learning and development to keep myself up to date and up-skilled is the solution to the modern-day application development for customers.
 🎯
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ### 📫 You can reach me here ↓
 
